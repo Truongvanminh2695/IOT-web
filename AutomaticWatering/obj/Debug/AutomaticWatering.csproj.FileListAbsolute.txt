@@ -1,0 +1,120 @@
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\AutomaticWatering.dll.config
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\AutomaticWatering.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\AutomaticWatering.pdb
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\csc.exe
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\csc.exe.config
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\csc.rsp
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\csi.exe
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\csi.rsp
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\System.AppContext.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\System.Collections.Immutable.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\System.IO.FileSystem.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\System.Reflection.Metadata.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\vbc.exe
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\vbc.exe.config
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\vbc.rsp
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\VBCSCompiler.exe
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\roslyn\VBCSCompiler.exe.config
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Antlr3.Runtime.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Microsoft.Web.Infrastructure.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Newtonsoft.Json.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Helpers.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Mvc.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Optimization.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Razor.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Deployment.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Razor.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\WebGrease.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Helpers.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Mvc.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Optimization.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.Razor.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Deployment.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Razor.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Newtonsoft.Json.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Antlr3.Runtime.pdb
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.csprojAssemblyReference.cache
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.csproj.CoreCompileInputs.cache
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.csproj.CopyComplete
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.pdb
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\PagedList.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\PagedList.Mvc.dll
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\PagedList.xml
+F:\DO AN 2021\AutomaticWatering\AutomaticWatering\bin\PagedList.Mvc.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\AutomaticWatering.dll.config
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\AutomaticWatering.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\AutomaticWatering.pdb
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\csc.exe
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\csc.exe.config
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\csc.rsp
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\csi.exe
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\csi.rsp
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\System.AppContext.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\vbc.exe
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\vbc.exe.config
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\vbc.rsp
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Antlr3.Runtime.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Newtonsoft.Json.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\PagedList.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\PagedList.Mvc.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Helpers.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Mvc.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Optimization.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Razor.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\WebGrease.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\PagedList.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\PagedList.Mvc.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Helpers.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Mvc.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Optimization.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.Razor.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Newtonsoft.Json.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Antlr3.Runtime.pdb
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.csprojAssemblyReference.cache
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.csproj.CoreCompileInputs.cache
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.csproj.CopyComplete
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.dll
+D:\Downloads\AutomaticWatering (1)\AutomaticWatering\AutomaticWatering\obj\Debug\AutomaticWatering.pdb
